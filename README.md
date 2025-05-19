@@ -71,6 +71,4 @@ QuerySniper/
 ├── scanner/
 │   └── core.py            # Scanning and SQLi detection logic
 ├── requirements.txt       # Python dependencies
-License
-This project is licensed under the MIT License. Feel free to use and modify it.
 
